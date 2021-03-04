@@ -2,7 +2,7 @@
  
 Tryin' to make simultaneously turn based
 
-The "TURNBASEDPATTY.rar" is a builded version for windows 86_64.
+The "TURNBASEDPATTY_v_0.001.rar" is a builded version for windows 86_64.
 
 RULES that Exsist: EACH team act with move/attack unit per "turn" (click). Each attack and move take 1 AP (Action point). If the Defender (the unit that get attacked) have AP and still alive, he will answer.
 
@@ -15,3 +15,9 @@ Control: for selecting unit click on him. If you want unselect, click on him aga
 To see parameters of the Enemy Unit, click on it. Parameters will be shown on the top right corner (if the unit near the selected unit, selected unit will attack selected enemy unit).
 
 After all AP points spended, you can refresh them for all units (Enemy includes) by clicking on the End-Of-Turn-Buttom.
+
+//TODO
+1. A* pathfinding
+2. Enemy move even if the player uses all AP
+3. Truly simultaneously
+4. more units and actions.
